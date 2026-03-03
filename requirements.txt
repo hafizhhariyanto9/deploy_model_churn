@@ -1,7 +1,8 @@
-streamlit
-joblib
+streamlit==1.31.0
+altair==4.2.2
+pandas
 numpy
-imblearn
-category_encoders
+scikit-learn
+imbalanced-learn
+joblib
 xgboost
-imblearn
